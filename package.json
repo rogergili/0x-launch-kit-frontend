@@ -2,6 +2,9 @@
     "name": "0x-launch-kit-frontend",
     "version": "0.3.0",
     "private": true,
+    "engines": {
+        "node": "12.16.x"
+    }
     "dependencies": {
         "@0x/connect": "^6.0.0",
         "@0x/contract-wrappers": "^13.0.0",
