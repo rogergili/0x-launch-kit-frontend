@@ -1,5 +1,6 @@
 import { ThemeMetaData } from './commons';
 import { DarkTheme } from './dark_theme';
+import { BlueTheme } from './blue_theme';
 import { DefaultTheme } from './default_theme';
 
 export const KNOWN_THEMES_META_DATA: ThemeMetaData[] = [
@@ -13,6 +14,6 @@ export const KNOWN_THEMES_META_DATA: ThemeMetaData[] = [
     },
     {
         name: 'BLUE_THEME',
-        theme: new DarkTheme(),
+        theme: new BlueTheme(),
     },
 ];
