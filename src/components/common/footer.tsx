@@ -83,9 +83,11 @@ const poweredBySVG = () => {
 
 export const Footer: React.FC<Props> = props => {
     return (
-        <FooterWrapper>
-            ©Roger Gili 2020
-        </FooterWrapper>
-
+        <!--FooterWrapper title={GIT_COMMIT} {...props}>
+            <a href="https://0x.org/" target="_blank" rel="noopener noreferrer">
+                {poweredBySVG()}
+            </a>
+        </FooterWrapper-->
+        © Roger Gili 2020
     );
 };
