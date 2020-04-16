@@ -27,9 +27,9 @@ const modalThemeStyle: ThemeModalStyle = {
 };
 
 const blueThemeColors: ThemeProperties = {
-    background: '#f4f3f4',
+    background: '#AED6F1',
     backgroundERC721: '#F9FAFC',
-    borderColor: '#dedede',
+    borderColor: '#5DADE2',
     boxShadow: '0 10px 10px rgba(0, 0, 0, 0.1)',
     buttonBuyBackgroundColor: '#3CB34F',
     buttonCollectibleSellBackgroundColor: '#00AE99',
@@ -108,9 +108,9 @@ const blueThemeColors: ThemeProperties = {
     thColor: '#B9B9B9',
     tooltipBackgroundColor: '#222',
     tooltipTextColor: '#fff',
-    topbarBackgroundColor: '#fff',
-    topbarBorderColor: '#dedede',
-    topbarSeparatorColor: '#dedede',
+    topbarBackgroundColor: '#5DADE2',
+    topbarBorderColor: '#fff',
+    topbarSeparatorColor: '#fff',
 };
 
 export class BlueTheme implements Theme {

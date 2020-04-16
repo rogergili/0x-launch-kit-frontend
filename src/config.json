@@ -35,6 +35,20 @@
         },
         {
             "decimals": 18,
+            "symbol": "xprt",
+            "name": "Xpertopolis",
+            "icon": "assets/icons/dgx.svg",
+            "primaryColor": "#E1AA3E",
+            "addresses": {
+                "1": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                "3": "0xfc8862446cd3e4a2e7167e7d97df738407fead07",
+                "4": "0x6f2d6ff85efca691aad23d549771160a12f0a0fc",
+                "42": "0xc4375b7de8af5a38a93548eb8453a498222c4ff2",
+                "50": "0x34d402f14d58e001d8efbe6585051bf9706aa064"
+            }
+        },
+        {
+            "decimals": 18,
             "symbol": "dai",
             "name": "Dai",
             "icon": "assets/icons/dai.svg",
@@ -112,6 +126,10 @@
         {
             "base": "zrx",
             "quote": "dai"
+        },
+        {
+            "base": "xprt",
+            "quote": "weth"
         },
         {
             "base": "weth",
