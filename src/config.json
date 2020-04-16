@@ -35,7 +35,7 @@
         },
         {
             "decimals": 18,
-            "symbol": "xprto",
+            "symbol": "xprt",
             "name": "Xpertopolis",
             "icon": "assets/icons/dgx.svg",
             "primaryColor": "#E1AA3E",
