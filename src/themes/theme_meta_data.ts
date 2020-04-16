@@ -11,4 +11,8 @@ export const KNOWN_THEMES_META_DATA: ThemeMetaData[] = [
         name: 'DARK_THEME',
         theme: new DarkTheme(),
     },
+    {
+        name: 'BLUE_THEME',
+        theme: new DarkTheme(),
+    },
 ];
